@@ -1,4 +1,4 @@
-Penjelasan Topologi Jaringan  
+README 
 
 Topologi jaringan dalam gambar menunjukkan koneksi antara tiga kampus Universitas Esa Unggul, yaitu Kampus Citra Raya, Kampus Kebon Jeruk, dan Kampus Harapan Indah, yang terhubung ke internet.  
 
